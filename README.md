@@ -7,10 +7,10 @@ That’s why I made this Dockerfile — it lets you quickly run a Docker contain
 
 ```bash
 # Clone the repository
-git clone https://github.com/r3xmax/Docker-PrintNighmare
+git clone https://github.com/r3xmax/docker-printnighmare
 
 # Change to the project directory
-cd Docker-PrintNighmare
+cd docker-printnighmare
 
 # Give execute permission to the script
 chmod +x deploy.sh
