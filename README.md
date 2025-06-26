@@ -7,7 +7,7 @@ That’s why I made this Dockerfile — it lets you quickly run a Docker contain
 
 ```bash
 # Clone the repository
-git clone https://github.com/r3xmax/docker-printnighmare
+git clone https://github.com/r3xmax/docker-printnightmare
 
 # Change to the project directory
 cd docker-printnighmare
