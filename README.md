@@ -32,7 +32,7 @@ docker rmi printnightmare-exploit
 ```
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/c738c292-693a-40f4-b0e0-ccc3e79ca1ce)
+![image](https://github.com/user-attachments/assets/8f7b9f68-b737-410b-8589-2498568ee1d6)
 
 ## Acknowledgement
 - [@cube0x0](https://github.com/cube0x0) - for the [PrintNightmare exploit](https://github.com/cube0x0/CVE-2021-1675) and the repository [Impacket tools](https://github.com/cube0x0/impacket).
