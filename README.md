@@ -10,7 +10,7 @@ That’s why I made this Dockerfile — it lets you quickly run a Docker contain
 git clone https://github.com/r3xmax/docker-printnightmare
 
 # Change to the project directory
-cd docker-printnighmare
+cd docker-printnightmare
 
 # Give execute permission to the script
 chmod +x deploy.sh
